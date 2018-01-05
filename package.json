@@ -1,93 +1,23 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "@timehello/react-native-root-toast@^1.0.3",
-        "scope": "@timehello",
-        "escapedName": "@timehello%2freact-native-root-toast",
-        "name": "@timehello/react-native-root-toast",
-        "rawSpec": "^1.0.3",
-        "spec": ">=1.0.3 <2.0.0",
-        "type": "range"
-      },
-      "/Users/pzzh/Desktop/StarCloud/starCloudApp"
-    ]
-  ],
-  "_cnpm_publish_time": 1480673501416,
-  "_from": "@timehello/react-native-root-toast@>=1.0.3 <2.0.0",
-  "_id": "@timehello/react-native-root-toast@1.0.3",
-  "_inCache": true,
-  "_location": "/@timehello/react-native-root-toast",
-  "_nodeVersion": "5.6.0",
-  "_npmOperationalInternal": {
-    "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/react-native-root-toast-1.0.3.tgz_1480673500788_0.45168086350895464"
-  },
-  "_npmUser": {
-    "name": "timehello",
-    "email": "timehello@163.com"
-  },
-  "_npmVersion": "3.3.12",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "@timehello/react-native-root-toast@^1.0.3",
-    "scope": "@timehello",
-    "escapedName": "@timehello%2freact-native-root-toast",
-    "name": "@timehello/react-native-root-toast",
-    "rawSpec": "^1.0.3",
-    "spec": ">=1.0.3 <2.0.0",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npm.taobao.org/@timehello/react-native-root-toast/download/@timehello/react-native-root-toast-1.0.3.tgz",
-  "_shasum": "00d9bf98ba05577849394f50f06cb029bf5b5398",
-  "_shrinkwrap": null,
-  "_spec": "@timehello/react-native-root-toast@^1.0.3",
-  "_where": "/Users/pzzh/Desktop/StarCloud/starCloudApp",
-  "bugs": {
-    "url": "https://github.com/Timehello/react-native-root-toast/issues"
-  },
-  "dependencies": {
-    "react-native-root-siblings": "git+https://github.com/BiLiangDevelop/react-native-root-siblings.git"
-  },
-  "description": "react native toast like component, pure javascript solution",
-  "devDependencies": {},
-  "directories": {},
-  "dist": {
-    "shasum": "00d9bf98ba05577849394f50f06cb029bf5b5398",
-    "size": 4399810,
-    "noattachment": false,
-    "tarball": "http://registry.npm.taobao.org/@timehello/react-native-root-toast/download/@timehello/react-native-root-toast-1.0.3.tgz"
-  },
-  "gitHead": "9b3d44d2ba653a254e14423de2abd339cfcbb40d",
-  "homepage": "https://github.com/Timehello/react-native-root-toast#readme",
-  "keywords": [
-    "react-component",
-    "react-native",
-    "ios",
-    "android",
-    "image",
-    "video",
-    "focus"
-  ],
-  "license": "MIT",
-  "main": "./index.js",
-  "maintainers": [
-    {
-      "name": "timehello",
-      "email": "timehello@163.com"
+    "version": "1.0.3",
+    "name": "react-native-root-toast",
+    "description": "react native toast like component, pure javascript solution",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/magicismight/react-native-root-toast"
+    },
+    "license": "MIT",
+    "main": "./index.js",
+    "keywords": [
+        "react-component",
+        "react-native",
+        "ios",
+        "android",
+        "image",
+        "video",
+        "focus"
+    ],
+    "dependencies": {
+        "react-native-root-siblings": "git+https://github.com/BiLiangDevelop/react-native-root-siblings.git"
     }
-  ],
-  "name": "@timehello/react-native-root-toast",
-  "optionalDependencies": {},
-  "publish_time": 1480673501416,
-  "readme": "ERROR: No README data found!",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Timehello/react-native-root-toast.git"
-  },
-  "scripts": {},
-  "version": "1.0.3"
 }
